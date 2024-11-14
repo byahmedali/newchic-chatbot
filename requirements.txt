@@ -1,0 +1,25 @@
+# Core data processing
+pandas
+numpy
+
+# API Client
+groq
+requests
+
+# Vector Database
+chromadb
+
+# UI and API
+gradio
+fastapi
+uvicorn
+python-multipart
+
+# Utilities
+python-dotenv
+tqdm
+pyyaml
+
+# Optional: Development tools
+pytest
+black
